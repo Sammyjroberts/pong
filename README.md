@@ -1,6 +1,6 @@
 # C PONG
 
-A classic Pong game built in C, built ato refresh myself on C programming and to explore the SDL library.
+A classic Pong game built in C, built to refresh myself on C programming and to explore the SDL library.
 
 ## Getting Started
 
